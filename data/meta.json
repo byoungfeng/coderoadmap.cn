@@ -1,0 +1,33 @@
+{
+  "site": "https://coderoadmap.cn",
+  "syncedAt": "2026-11-12T09:48:11.882Z",
+  "counts": {
+    "tracks": 149,
+    "roadmaps": 91,
+    "lessons": 2032
+  },
+  "categories": {
+    "tracks": [
+      "ai",
+      "language",
+      "framework",
+      "fullstack",
+      "dsa",
+      "devops",
+      "interview"
+    ],
+    "roadmaps": [
+      "ai",
+      "web",
+      "mobile",
+      "devops",
+      "data",
+      "computer-science",
+      "language",
+      "algorithm",
+      "engineering",
+      "security",
+      "career"
+    ]
+  }
+}
