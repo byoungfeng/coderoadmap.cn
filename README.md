@@ -63,7 +63,7 @@ coderoadmap.cn 是一个中文编程学习导航站，解决的是「先学什�
 ## 来源与授权
 
 - 站内原创课程（143 门）：CodeRoadMap 原创，CC BY-NC 4.0
-- 路线图来源：CodeRoadMap、roadmap.sh
+- 路线图来源：CodeRoadMap
 - 本仓库脚本：MIT
 
 ## 反馈
