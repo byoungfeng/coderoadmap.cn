@@ -23,8 +23,8 @@ coderoadmap.cn 是一个中文编程学习导航站，解决的是「先学什�
 
 | 分类 | 课程数 | 代表课程 | 完整清单 |
 | --- | --- | --- | --- |
-| **AI 与智能体** | 1 | [AI 人工智能入门 · 微软 12 周课](https://coderoadmap.cn/tracks/ai-for-beginners) | [明细](docs/tracks/ai.md) |
-| **编程语言** | 80 | [C++ 那些事](https://coderoadmap.cn/tracks/cpp-things)、[Java 语言基础](https://coderoadmap.cn/tracks/java-fundamentals)、[JavaScript 核心](https://coderoadmap.cn/tracks/javascript-core) | [明细](docs/tracks/language.md) |
+| **AI 与智能体** | 13 | [AI 人工智能入门 · 微软 12 周课](https://coderoadmap.cn/tracks/ai-for-beginners)、[AI 辅助编程入门](https://coderoadmap.cn/tracks/ai-coding-essentials)、[AI 时代工程实践](https://coderoadmap.cn/tracks/ai-engineering-essentials) | [明细](docs/tracks/ai.md) |
+| **编程语言** | 68 | [C++ 那些事](https://coderoadmap.cn/tracks/cpp-things)、[Java 语言基础](https://coderoadmap.cn/tracks/java-fundamentals)、[JavaScript 核心](https://coderoadmap.cn/tracks/javascript-core) | [明细](docs/tracks/language.md) |
 | **框架与生态** | 25 | [Spring Boot 实战入门](https://coderoadmap.cn/tracks/spring-boot-essentials)、[React 核心](https://coderoadmap.cn/tracks/react-essentials)、[Next.js 实战入门](https://coderoadmap.cn/tracks/nextjs-essentials) | [明细](docs/tracks/framework.md) |
 | **全栈开发** | 1 | [全栈开发路线图](https://coderoadmap.cn/tracks/fullstack-roadmap) | [明细](docs/tracks/fullstack.md) |
 | **数据结构与算法** | 1 | [数据结构与算法 · Java](https://coderoadmap.cn/tracks/dsa-java) | [明细](docs/tracks/dsa.md) |
@@ -63,13 +63,13 @@ coderoadmap.cn 是一个中文编程学习导航站，解决的是「先学什�
 ## 来源与授权
 
 - 站内原创课程（143 门）：CodeRoadMap 原创，CC BY-NC 4.0
-- 路线图来源：CodeRoadMap
+- 路线图来源：CodeRoadMap、roadmap.sh
 - 本仓库脚本：MIT
 
 ## 反馈
 
-内容纠错请提交 Issue，或到 [站内社区](https://coderoadmap.cn/community) 反馈。
+内容纠错请提交 Issue，或到 [站内社区](https://coderoadmap.cn/community) 反馈。本仓库不接受内容投稿。
 
 ---
 
-最后同步：2026-11-12T09:52:59.906Z · 数据快照见 [data/meta.json](data/meta.json)
+最后同步：2026-11-12T11:19:01.465Z · 数据快照见 [data/meta.json](data/meta.json)

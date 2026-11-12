@@ -2,7 +2,7 @@
 
 # 编程语言 · 课程索引
 
-共 80 门课程，全部讲义与练习题在 [coderoadmap.cn](https://coderoadmap.cn/tracks)。
+共 68 门课程，全部讲义与练习题在 [coderoadmap.cn](https://coderoadmap.cn/tracks)。
 
 | 课程 | 级别 | 课时 | 预计周数 | 简介 |
 | --- | --- | --- | --- | --- |
@@ -28,21 +28,11 @@
 | [设计系统入门](https://coderoadmap.cn/tracks/design-system-essentials) | 进阶 | 12 | 2 | 令牌、组件、文档与治理，系统覆盖 design-system 路线图。 |
 | [数据分析师入门](https://coderoadmap.cn/tracks/data-analyst-essentials) | 进阶 | 12 | 2 | Excel、Python、统计与可视化，系统覆盖 data-analyst 路线图。 |
 | [数据结构与算法入门](https://coderoadmap.cn/tracks/datastructures-and-algorithms-essentials) | 进阶 | 12 | 2 | 复杂度、树图 DP 与刷题模式，系统覆盖 datastructures-and-algorithms 路线图。 |
-| [提示词工程入门](https://coderoadmap.cn/tracks/prompt-engineering-essentials) | 进阶 | 12 | 2 | 采样参数/CoT/RAG/结构化输出，系统覆盖 prompt-engineering 路线图。 |
 | [游戏服务端开发入门](https://coderoadmap.cn/tracks/server-side-game-developer-essentials) | 高级 | 12 | 2 | 网络、并发、序列化与云部署，系统覆盖 server-side-game-developer 路线图。 |
 | [游戏开发入门](https://coderoadmap.cn/tracks/game-developer-essentials) | 进阶 | 12 | 2 | 图形管线、物理、碰撞与游戏 AI，系统覆盖 game-developer 路线图。 |
-| [AI 产品构建入门](https://coderoadmap.cn/tracks/ai-product-builder-essentials) | 进阶 | 12 | 2 | 原型/AI 编码/部署/协作，系统覆盖 ai-product-builder 路线图。 |
-| [AI 辅助编程入门](https://coderoadmap.cn/tracks/ai-coding-essentials) | 入门 | 12 | 1 | LLM 基础、Copilot/Cursor 工作流与代码审查，提升效率但保持工程纪律。 |
-| [AI 工程师进阶](https://coderoadmap.cn/tracks/ai-engineer-advanced-essentials) | 高级 | 12 | 2 | LLM、RAG、Agent、MCP 与生产部署，补全 ai-engineer 路线图。 |
-| [AI 红队实战入门](https://coderoadmap.cn/tracks/ai-red-teaming-essentials) | 高级 | 12 | 2 | 提示注入/越狱/Agent 安全/红队测试，系统覆盖 ai-red-teaming 路线图。 |
-| [AI 时代工程实践](https://coderoadmap.cn/tracks/ai-engineering-essentials) | 进阶 | 12 | 1 | AI 与传统编程如何协作、团队规范与质量责任，对接 ai-vs-traditional-coding 节点。 |
-| [AI 数据科学家入门](https://coderoadmap.cn/tracks/ai-data-scientist-essentials) | 进阶 | 12 | 2 | 统计、EDA、ML/DL 到 MLOps/AI 工程，系统覆盖 ai-data-scientist 路线图。 |
-| [AI 智能体进阶](https://coderoadmap.cn/tracks/ai-agents-advanced-essentials) | 高级 | 12 | 2 | LLM 原理、记忆、Agent 架构、框架与评测，补全 ai-agents 路线图。 |
-| [AI 智能体入门](https://coderoadmap.cn/tracks/ai-agents-essentials) | 进阶 | 12 | 2 | 函数调用、RAG、向量与 MCP，理解 Agent 如何连接工具与知识库。 |
 | [API 设计实战入门](https://coderoadmap.cn/tracks/api-design-essentials) | 进阶 | 12 | 2 | REST 资源建模、认证授权、网关与 OpenAPI，系统覆盖 api-design 路线图。 |
 | [C 语言入门](https://coderoadmap.cn/tracks/c-essentials) | 入门 | 12 | 2 | 指针、内存、构建系统与调试，系统覆盖 c 路线图。 |
 | [C++ 语言入门](https://coderoadmap.cn/tracks/cpp-essentials) | 入门 | 12 | 2 | 现代 C++ 语法、OOP、STL 与 CMake，系统覆盖 cpp 路线图核心节点。 |
-| [Claude Code 实战入门](https://coderoadmap.cn/tracks/claude-code-essentials) | 进阶 | 12 | 2 | CLI、MCP、Skills 与 Hooks，系统覆盖 claude-code 路线图。 |
 | [Django 实战入门](https://coderoadmap.cn/tracks/django-essentials) | 进阶 | 12 | 2 | MTV、ORM、DRF 与部署，系统覆盖 django 路线图。 |
 | [Flutter 开发入门](https://coderoadmap.cn/tracks/flutter-essentials) | 进阶 | 12 | 2 | Dart、Widget、状态管理与发布，系统覆盖 flutter 路线图。 |
 | [Forward Deployed 工程师入门](https://coderoadmap.cn/tracks/forward-deployed-engineer-essentials) | 高级 | 12 | 2 | 客户现场交付、范围权衡、全栈与 AI 工程，系统覆盖 FDE 路线图。 |
@@ -63,7 +53,6 @@
 | [Laravel 实战入门](https://coderoadmap.cn/tracks/laravel-essentials) | 进阶 | 12 | 2 | 路由/Eloquent/Blade/队列，系统覆盖 laravel 路线图。 |
 | [LeetCode 算法模式](https://coderoadmap.cn/tracks/leetcode-essentials) | 进阶 | 12 | 2 | 18 种高频模式与经典题直觉，系统覆盖 leetcode 路线图。 |
 | [MongoDB 入门](https://coderoadmap.cn/tracks/mongodb-essentials) | 进阶 | 12 | 2 | 文档模型、CRUD、索引、聚合与 Spring Data MongoDB，对接 backend / spring-boot 路线图。 |
-| [OpenClaw 实战入门](https://coderoadmap.cn/tracks/openclaw-essentials) | 进阶 | 12 | 2 | Gateway、Channels、Skills 与 Memory，系统覆盖 openclaw 路线图。 |
 | [ORM 与数据库设计](https://coderoadmap.cn/tracks/orm-essentials) | 进阶 | 12 | 2 | 范式、ER 模型、JPA/MyBatis 与 MariaDB，对接 backend ORM/Normalization 节点。 |
 | [PHP 进阶](https://coderoadmap.cn/tracks/php-advanced-essentials) | 进阶 | 12 | 2 | Web 表单、安全、ORM、性能与框架生态，补全 php 路线图剩余节点。 |
 | [PHP Web 入门](https://coderoadmap.cn/tracks/php-essentials) | 入门 | 12 | 2 | 语法、Composer、PDO 与 REST 风格 API，理解 Laravel 生态前的 PHP 基础。 |
@@ -83,6 +72,5 @@
 | [TypeScript 核心](https://coderoadmap.cn/tracks/typescript-essentials) | 进阶 | 12 | 2 | 静态类型、接口、泛型与 React 组件 typing，对接 typescript / javascript / frontend 与 pl… |
 | [TypeScript 进阶](https://coderoadmap.cn/tracks/typescript-advanced-essentials) | 进阶 | 12 | 2 | 工具类型、类、装饰器与工具链，补全 typescript 路线图剩余节点。 |
 | [UX 与行为设计入门](https://coderoadmap.cn/tracks/ux-design-essentials) | 进阶 | 12 | 2 | 行为科学、流程设计与 A/B 测试，系统覆盖 ux-design 路线图。 |
-| [Vibe Coding 实战入门](https://coderoadmap.cn/tracks/vibe-coding-essentials) | 入门 | 12 | 1 | Cursor/Claude/v0 与 AI 辅助编程工作流，系统覆盖 vibe-coding 路线图。 |
 | [WordPress 开发入门](https://coderoadmap.cn/tracks/wordpress-essentials) | 进阶 | 12 | 2 | 主题/插件/Hooks/安全，系统覆盖 wordpress 路线图。 |
 | [C++ 那些事](https://coderoadmap.cn/tracks/cpp-things) | 进阶 | 60 | 8 | Light-City/CPlusPlusThings（4 万星）：从入门到进阶的 C++ 学习之旅——基础核心、C++11 新特性、STL … |
