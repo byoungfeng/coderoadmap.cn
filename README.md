@@ -9,7 +9,7 @@
 ![roadmaps](https://img.shields.io/badge/roadmaps-91-2f6fed)
 ![courses](https://img.shields.io/badge/courses-149-2f6fed)
 ![lessons](https://img.shields.io/badge/lessons-2032-2f6fed)
-![last sync](https://img.shields.io/badge/last_sync-2026--11--19-informational)
+![last sync](https://img.shields.io/badge/last_sync-2026--11--20-informational)
 
 ## 这是什么
 
@@ -72,4 +72,4 @@ coderoadmap.cn 是一个中文编程学习导航站，解决的是「先学什�
 
 ---
 
-最后同步：2026-11-19T01:36:34.128Z · 数据快照见 [data/meta.json](data/meta.json)
+最后同步：2026-11-20T01:35:51.826Z · 数据快照见 [data/meta.json](data/meta.json)
